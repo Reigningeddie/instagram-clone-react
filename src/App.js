@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Post from './Post'; 
 
 function App() {
   return (
     <div className="App">
-      <h1></h1>
+
       <div className="app__header">
         <img 
           className="app__headerImage"
@@ -12,7 +13,9 @@ function App() {
           alt=""
         />
       </div>
+      <h1>lets build an instagram clone with react 🚀!</h1>
 
+      <Post />
       {/* Posts */}
       {/* Posts */}
     </div>
