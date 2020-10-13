@@ -13,7 +13,7 @@ function App() {
           alt=""
         />
       </div>
-      <h1>lets build an instagram clone with react 🚀!</h1>
+      <h1>In order to hack Instagram you first need to learn the code inside and out. be the APP. 🚀!</h1>
 
       <Post />
       {/* Posts */}
