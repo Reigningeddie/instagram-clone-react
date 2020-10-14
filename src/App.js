@@ -13,11 +13,11 @@ function App() {
           alt=""
         />
       </div>
-      <h1>In order to hack Instagram you first need to learn the code inside and out. be the APP. 🚀!</h1>
+      <h1>In order to hack Instagram you first need to learn the code inside and out. be the APP. 📸!</h1>
 
       <Post />
-      {/* Posts */}
-      {/* Posts */}
+      <Post />
+      <Post />
     </div>
   );
 }
