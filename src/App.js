@@ -15,7 +15,7 @@ function App() {
       </div>
       <h1>In order to hack Instagram you first need to learn the code inside and out. be the APP. 📸!</h1>
 
-      <Post imageUrl="https://miro.medium.com/max/875/1*P5WKQdrZ4cl-arUrW3JrvQ.jpeg" />
+      <Post username="Reigningeddie" caption="WOW it works" imageUrl="https://miro.medium.com/max/875/1*P5WKQdrZ4cl-arUrW3JrvQ.jpeg" />
       <Post />
       <Post />
 
